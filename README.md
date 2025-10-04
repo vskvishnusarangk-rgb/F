@@ -8,19 +8,19 @@ Users can also compare both models and analyze backtesting results.
 
 ⚖️ Portfolio Models:
 
-Markowitz Mean-Variance Optimization
-Equal Weights Model
+Markowitz Mean-Variance Optimization,
+ Equal Weights Model, 
 Side-by-side comparison
 
 
 🧮 Covariance Shrinkage Methods:
 
-None (sample covariance)
-Eigenvalue shrinkage (nlshrink)
+None (sample covariance), 
+Eigenvalue shrinkage (nlshrink), 
 Oracle Approximating Shrinkage (OAS)
 
 📊 Outputs:
 
-Optimized Portfolio Weights
-Training Results (Annualized Return, Volatility, Reward-to-Risk)
+Optimized Portfolio Weights, 
+Training Results (Annualized Return, Volatility, Reward-to-Risk), 
 Backtesting Results (Annualized Return, Volatility, Reward-to-Risk)
